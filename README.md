@@ -26,10 +26,14 @@
 - You can save your favorite and precious spots.
 
 ## Features: 
-- You can create your own spots data with description, and tags.
+- The ability to pin spots anywhere in the world using an interactive map.
+- A random user-generated spot appears on the front page each time you visit it.
+- Give each spot a title, description, and tags.
+- Customize your profile with a user bio.
 
 ## Requirements: 
-- ADD
+- [Node.js](https://nodejs.org/en/docs/)
+- [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
 
 ## Install:
     - Type "npm i"

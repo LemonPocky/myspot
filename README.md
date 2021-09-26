@@ -8,7 +8,7 @@
   
 ## Heroku Deployment Link
   
-  [MySpot App](https://myspot-lhladb.herokuapp.com)
+  [MySpot App](https://myspot-maps.herokuapp.com)
   
 
 ## Table of Contents
